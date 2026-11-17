@@ -1,4 +1,4 @@
-# HCM-KS26-CNTT1_KNPromtingAl_Session02_Ex0Ẽ05
+# HCM-KS26-CNTT1_KNPromtingAl_Session02_Ex05
 BÀI 5 – CƠ CHẾ IN-CONTEXT LEARNING TRONG PHÂN LOẠI REVIEW KHÁCH HÀNG
 
 Họ và tên: Phạm Thành Đạo
